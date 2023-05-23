@@ -1,0 +1,32 @@
+[22-May-2023 21:32:09 UTC] PHP Fatal error:  Cannot redeclare custom_theme_customizer_settings() (previously declared in /home/txdsfroc/prototype.sarahprofile.com/wp-content/themes/custom_theme/functions.php:85) in /home/txdsfroc/prototype.sarahprofile.com/wp-content/themes/custom_theme/functions.php on line 130
+[23-May-2023 08:28:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/txdsfroc/prototype.sarahprofile.com/wp-content/themes/custom_theme/functions.php on line 256
+[23-May-2023 08:28:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/txdsfroc/prototype.sarahprofile.com/wp-content/themes/custom_theme/functions.php on line 256
+[23-May-2023 08:29:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/txdsfroc/prototype.sarahprofile.com/wp-content/themes/custom_theme/functions.php on line 256
+[23-May-2023 08:57:27 UTC] PHP Warning:  A non-numeric value encountered in /home/txdsfroc/prototype.sarahprofile.com/wp-content/themes/custom_theme/functions.php on line 239
+[23-May-2023 08:58:38 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/txdsfroc/prototype.sarahprofile.com/wp-content/themes/custom_theme/functions.php on line 239
+[23-May-2023 12:39:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /home/txdsfroc/prototype.sarahprofile.com/wp-content/themes/custom_theme/single-product.php:13
+Stack trace:
+#0 /home/txdsfroc/prototype.sarahprofile.com/wp-includes/template-loader.php(106): include()
+#1 /home/txdsfroc/prototype.sarahprofile.com/wp-blog-header.php(19): require_once('/home/txdsfroc/...')
+#2 /home/txdsfroc/prototype.sarahprofile.com/index.php(17): require('/home/txdsfroc/...')
+#3 {main}
+  thrown in /home/txdsfroc/prototype.sarahprofile.com/wp-content/themes/custom_theme/single-product.php on line 13
+[23-May-2023 13:15:43 UTC] PHP Fatal error:  Cannot redeclare handle_custom_form_submission() (previously declared in /home/txdsfroc/prototype.sarahprofile.com/wp-content/themes/custom_theme/functions.php:295) in /home/txdsfroc/prototype.sarahprofile.com/wp-content/themes/custom_theme/functions.php on line 310
+[23-May-2023 13:15:51 UTC] PHP Fatal error:  Cannot redeclare handle_custom_form_submission() (previously declared in /home/txdsfroc/prototype.sarahprofile.com/wp-content/themes/custom_theme/functions.php:295) in /home/txdsfroc/prototype.sarahprofile.com/wp-content/themes/custom_theme/functions.php on line 310
+[23-May-2023 13:16:18 UTC] PHP Fatal error:  Cannot redeclare handle_custom_form_submission() (previously declared in /home/txdsfroc/prototype.sarahprofile.com/wp-content/themes/custom_theme/functions.php:295) in /home/txdsfroc/prototype.sarahprofile.com/wp-content/themes/custom_theme/functions.php on line 310
+[23-May-2023 13:28:22 UTC] PHP Fatal error:  Cannot redeclare handle_custom_form_submission() (previously declared in /home/txdsfroc/prototype.sarahprofile.com/wp-content/themes/custom_theme/functions.php:295) in /home/txdsfroc/prototype.sarahprofile.com/wp-content/themes/custom_theme/functions.php on line 311
+[23-May-2023 13:28:25 UTC] PHP Fatal error:  Cannot redeclare handle_custom_form_submission() (previously declared in /home/txdsfroc/prototype.sarahprofile.com/wp-content/themes/custom_theme/functions.php:295) in /home/txdsfroc/prototype.sarahprofile.com/wp-content/themes/custom_theme/functions.php on line 311
+[23-May-2023 13:28:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /home/txdsfroc/prototype.sarahprofile.com/wp-content/themes/custom_theme/single-product.php:13
+Stack trace:
+#0 /home/txdsfroc/prototype.sarahprofile.com/wp-includes/template-loader.php(106): include()
+#1 /home/txdsfroc/prototype.sarahprofile.com/wp-blog-header.php(19): require_once('/home/txdsfroc/...')
+#2 /home/txdsfroc/prototype.sarahprofile.com/index.php(17): require('/home/txdsfroc/...')
+#3 {main}
+  thrown in /home/txdsfroc/prototype.sarahprofile.com/wp-content/themes/custom_theme/single-product.php on line 13
+[23-May-2023 15:26:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /home/txdsfroc/prototype.sarahprofile.com/wp-content/themes/custom_theme/single-product.php:13
+Stack trace:
+#0 /home/txdsfroc/prototype.sarahprofile.com/wp-includes/template-loader.php(106): include()
+#1 /home/txdsfroc/prototype.sarahprofile.com/wp-blog-header.php(19): require_once('/home/txdsfroc/...')
+#2 /home/txdsfroc/prototype.sarahprofile.com/index.php(17): require('/home/txdsfroc/...')
+#3 {main}
+  thrown in /home/txdsfroc/prototype.sarahprofile.com/wp-content/themes/custom_theme/single-product.php on line 13

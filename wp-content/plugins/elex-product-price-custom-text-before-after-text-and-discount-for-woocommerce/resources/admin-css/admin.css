@@ -1,0 +1,62 @@
+.elex_ppct_to-go-premium {
+	color: red!important;
+	font-weight: 500!important;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.elex_product_categories_td{
+  display: flex;
+}
+.elex_product_categories_td>div{
+  background-color: white;
+  padding: 10px;
+  border: 1px solid #8c8f94;
+  border-radius: 0.25rem;
+}
+.elex_categories{
+  padding: 5px 0px;
+  max-height: 350px;
+  overflow-y: auto;
+  margin-top: 0px;
+  padding-right: 10px;
+  min-width: 300px;
+}
+/* width */
+.elex_categories::-webkit-scrollbar {
+  width: 6px;
+}
+
+/* Track */
+.elex_categories::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+.elex_categories::-webkit-scrollbar-thumb {
+  background: rgb(177, 177, 177); 
+}
+
+/* Handle on hover */
+.elex_categories::-webkit-scrollbar-thumb:hover {
+  background: rgb(128, 128, 128); 
+}
+.elex_categories ul{
+  margin-left: 20px;
+  margin-top: 0px;
+}
+.elex_categories li{
+  margin-bottom: 0px;
+}
+.elex_categories ul li{
+  margin-bottom: 0px;
+}
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
